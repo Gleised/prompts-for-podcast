@@ -1,7 +1,7 @@
 # prompts-for-podcast
 <p align="center">
 <img 
-    src="./assets/figura.png"
+    src="./figura.jpg"
     width="300"
 />
 </p>
